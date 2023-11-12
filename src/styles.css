@@ -113,6 +113,7 @@ main h5 {
 .img-responsive {
   width: 100%;
   display: block;
+  aspect-ratio: 1/1;
 }
 
 .grid-2-columns {
@@ -128,8 +129,8 @@ main h5 {
 }
 
 .embed {
-  width: 100px;
-  aspect-ratio: 1 /1;
+  width: 100%;
+  aspect-ratio: 1/1;
 }
 
 .instagram.embed {
